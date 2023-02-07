@@ -1,0 +1,33 @@
+body {
+  background: #ffea7f;
+  font-family: sans-serif;
+}
+
+.oferta {
+  background: #8dadff;
+  border-radius: 10px;
+  padding: 1rem;
+  width: 13rem;
+  margin: 2rem auto;
+  text-align: center;
+  margin: 50px 50px 50px 50px;
+}
+
+img {
+  border-radius: 10px;
+  width: 100%;
+}
+
+.oferta:hover {
+  scale: 1.1;
+}
+
+.oferta:active {
+  border: 3px solid rgb(16, 1, 149);
+}
+.flex{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: left;
+
+}
